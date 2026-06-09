@@ -1,4 +1,5 @@
 # Provider — tells Terraform we are using AWS
+# Updated by CI/CD pipeline test
 terraform {
   required_providers {
     aws = {
