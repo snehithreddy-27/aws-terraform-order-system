@@ -1,0 +1,10 @@
+# Terraform binaries and providers
+**/.terraform/
+*.exe
+*.zip
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+.devops/
+terraform_1.15.4_windows_amd64/
+*.tfvars
